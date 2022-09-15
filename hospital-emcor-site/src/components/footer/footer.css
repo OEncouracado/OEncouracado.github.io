@@ -1,0 +1,22 @@
+.span-footer-center,.p-footer-center{
+    display:block;
+}
+
+a {
+    text-decoration: none;
+    }
+.direita{
+    max-height: 130px;
+    overflow:hidden;
+    vertical-align: bottom;
+    text-align: justify;
+    
+}
+
+.fa{
+    /* align-self: center; */
+	font-size: 30px;
+	line-height: 45px;
+	margin: 5px 15px;
+	vertical-align:text-top;
+    }

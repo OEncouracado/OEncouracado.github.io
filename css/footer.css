@@ -55,12 +55,16 @@
 	font-size: 14px;
 	font-weight: normal;
 	margin: 0;
+	
 }
 
 /* Footer Center */
 
 .footer-distributed .footer-center{
 	width: 35%;
+	align-items: center;
+	justify-content:space-around;
+	display: ;
 }
 
 .footer-distributed .footer-center i{
