@@ -1,0 +1,27 @@
+.fa{
+    background-color:#4b4b4b;
+	color: #ffffff;
+	font-size: 25px;
+	width: 38px;
+	height: 38px;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 42px;
+	margin: 5px 0px;
+	vertical-align: middle;
+}
+.fa-envelope{
+    font-size: 20px;
+	line-height: 38px;
+}
+
+.fa:hover{
+    background-color: white;
+    color: #4b4b4b;
+    transition: 200ms ease-in-out 200ms;
+}
+
+.itens-center:hover{
+    transform: scale(1.05);
+        transition: 200ms ease-in;
+}

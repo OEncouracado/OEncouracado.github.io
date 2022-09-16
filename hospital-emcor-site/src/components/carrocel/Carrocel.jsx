@@ -21,7 +21,7 @@ export default function CarouselFade() {
       <Carousel.Item>
         <img
           className="d-block w-100 carousel-img"
-          height={350}
+          height={400}
           src={frente2}
           alt="First slide"
         />
@@ -33,7 +33,7 @@ export default function CarouselFade() {
       <Carousel.Item>
         <img
           className="d-block w-100 carousel-img"
-          height= {350}
+          height= {400}
           src= {conforto}
           alt="Second slide"
         />
@@ -46,7 +46,7 @@ export default function CarouselFade() {
       <Carousel.Item>
         <img
           className="d-block w-100 carousel-img"
-          height={350}
+          height={400}
           src={tecnologia}
           alt="Third slide"
         />

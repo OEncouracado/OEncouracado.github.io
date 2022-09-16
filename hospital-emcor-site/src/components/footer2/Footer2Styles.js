@@ -66,7 +66,7 @@ font-size: 18px;
 text-decoration: none;
 
 &:hover {
-	color: green;
+	color: #4b4b4b;
 	transition: 200ms ease-in;
 }
 `;
@@ -78,7 +78,7 @@ export const FooterLinkLeft = styled.a`
     font-weight:bold;
 
     &:hover {
-        color: green;
+        color: #4b4b4b;
         transition: 200ms ease-in;
     }
 `;
@@ -90,7 +90,7 @@ export const FooterLinkCenter = styled.a`
     font-weight:bold;
 
     &:hover {
-        color: green;
+        color: #4b4b4b;
         transition: 200ms ease-in;
     }
 `;
