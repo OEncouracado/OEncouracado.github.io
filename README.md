@@ -1,1 +1,0 @@
-# OEncouracado.github.io
