@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b43faa1.css",
+    "main.js": "/static/js/main.ea7fd0bf.js",
+    "static/media/hospitalemcor.com.br.png": "/static/media/hospitalemcor.com.br.6118114f516ec379a90b.png",
+    "static/media/negocio.png": "/static/media/negocio.5183dcbd28957ca4cae6.png",
+    "static/media/mkdg4.jpg": "/static/media/mkdg4.bb94011ee8df6cc2a97d.jpg",
+    "static/media/mkdg3.jpg": "/static/media/mkdg3.a120a616a5bf51a1cae0.jpg",
+    "static/media/fundo.webp": "/static/media/fundo.75ade1fa50f85c46a627.webp",
+    "static/media/mkdg2.png": "/static/media/mkdg2.d4eefee1e6bb6e44c4fb.png",
+    "static/media/midia-social.png": "/static/media/midia-social.ddc1de3d667518a5e17a.png",
+    "static/media/planofundo.png": "/static/media/planofundo.830d5de1ba462e6d003b.png",
+    "static/media/logoleaoinvertido.png": "/static/media/logoleaoinvertido.4f735061f6d1c5aea19f.png",
+    "static/media/responsive-design.png": "/static/media/responsive-design.5cc9fe0789d39719b673.png",
+    "static/media/landing-page.png": "/static/media/landing-page.cb93e840caab552bfabd.png",
+    "index.html": "/index.html",
+    "static/media/sun.svg": "/static/media/sun.a59239f11c5f93ffce49.svg",
+    "static/media/moon.svg": "/static/media/moon.32432e461bae3e6d5d49.svg",
+    "main.9b43faa1.css.map": "/static/css/main.9b43faa1.css.map",
+    "main.ea7fd0bf.js.map": "/static/js/main.ea7fd0bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b43faa1.css",
+    "static/js/main.ea7fd0bf.js"
+  ]
+}
