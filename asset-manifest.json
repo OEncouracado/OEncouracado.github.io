@@ -1,14 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.fe4b71ba.css",
-    "main.js": "/static/js/main.f78218e7.js",
-    "static/media/hospitalemcor.com.br.png": "/static/media/hospitalemcor.com.br.6118114f516ec379a90b.png",
+    "main.css": "/static/css/main.b5b73a34.css",
+    "main.js": "/static/js/main.41882a5d.js",
     "static/media/negocio.png": "/static/media/negocio.5183dcbd28957ca4cae6.png",
     "static/media/mkdg4.jpg": "/static/media/mkdg4.bb94011ee8df6cc2a97d.jpg",
     "static/media/mkdg3.jpg": "/static/media/mkdg3.a120a616a5bf51a1cae0.jpg",
+    "static/media/mkdg3.avif": "/static/media/mkdg3.de632f245aa6a410fdf4.avif",
     "static/media/fundo.webp": "/static/media/fundo.75ade1fa50f85c46a627.webp",
+    "static/media/hospitalemcor.com.br.avif": "/static/media/hospitalemcor.com.br.2ad5d8a4694d5388c5b8.avif",
+    "static/media/mkdg4_1.avif": "/static/media/mkdg4_1.ccf6fb9034aab9aaefcb.avif",
     "static/media/mkdg2.png": "/static/media/mkdg2.d4eefee1e6bb6e44c4fb.png",
     "static/media/midia-social.png": "/static/media/midia-social.ddc1de3d667518a5e17a.png",
+    "static/media/negocio_1.avif": "/static/media/negocio_1.80027323038757fabea5.avif",
     "static/media/planofundo.png": "/static/media/planofundo.830d5de1ba462e6d003b.png",
     "static/media/logoleaoinvertido.png": "/static/media/logoleaoinvertido.4f735061f6d1c5aea19f.png",
     "static/media/responsive-design.png": "/static/media/responsive-design.5cc9fe0789d39719b673.png",
@@ -16,11 +19,11 @@
     "index.html": "/index.html",
     "static/media/sun.svg": "/static/media/sun.a59239f11c5f93ffce49.svg",
     "static/media/moon.svg": "/static/media/moon.32432e461bae3e6d5d49.svg",
-    "main.fe4b71ba.css.map": "/static/css/main.fe4b71ba.css.map",
-    "main.f78218e7.js.map": "/static/js/main.f78218e7.js.map"
+    "main.b5b73a34.css.map": "/static/css/main.b5b73a34.css.map",
+    "main.41882a5d.js.map": "/static/js/main.41882a5d.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe4b71ba.css",
-    "static/js/main.f78218e7.js"
+    "static/css/main.b5b73a34.css",
+    "static/js/main.41882a5d.js"
   ]
 }
