@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.410b765e.css",
-    "main.js": "/static/js/main.03848dc3.js",
+    "main.js": "/static/js/main.458727ce.js",
     "static/media/mkdg3.avif": "/static/media/mkdg3.de632f245aa6a410fdf4.avif",
     "static/media/fundo.webp": "/static/media/fundo.75ade1fa50f85c46a627.webp",
     "static/media/hospitalemcor.com.br.avif": "/static/media/hospitalemcor.com.br.2ad5d8a4694d5388c5b8.avif",
@@ -17,10 +17,10 @@
     "static/media/sun.svg": "/static/media/sun.a59239f11c5f93ffce49.svg",
     "static/media/moon.svg": "/static/media/moon.32432e461bae3e6d5d49.svg",
     "main.410b765e.css.map": "/static/css/main.410b765e.css.map",
-    "main.03848dc3.js.map": "/static/js/main.03848dc3.js.map"
+    "main.458727ce.js.map": "/static/js/main.458727ce.js.map"
   },
   "entrypoints": [
     "static/css/main.410b765e.css",
-    "static/js/main.03848dc3.js"
+    "static/js/main.458727ce.js"
   ]
 }
