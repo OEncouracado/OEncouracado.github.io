@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
-Domain: oencouracado.github.io
+Domain: mavsleo.com.br
 Token: 8975c7726b8cb029b2b37299c1c32adf6865bbe2a295518c952a6834a01e59ec
