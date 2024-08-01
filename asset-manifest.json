@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.410b765e.css",
-    "main.js": "/static/js/main.458727ce.js",
+    "main.css": "/static/css/main.a66e1a9c.css",
+    "main.js": "/static/js/main.44a4d013.js",
     "static/media/mkdg3.avif": "/static/media/mkdg3.de632f245aa6a410fdf4.avif",
     "static/media/fundo.webp": "/static/media/fundo.75ade1fa50f85c46a627.webp",
     "static/media/hospitalemcor.com.br.avif": "/static/media/hospitalemcor.com.br.2ad5d8a4694d5388c5b8.avif",
     "static/media/mkdg4_1.avif": "/static/media/mkdg4_1.ccf6fb9034aab9aaefcb.avif",
     "static/media/negocio_1.avif": "/static/media/negocio_1.80027323038757fabea5.avif",
     "static/media/mkdg2.avif": "/static/media/mkdg2.e8069cc714a593cf75bb.avif",
-    "static/media/logoleaoinvertido.png": "/static/media/logoleaoinvertido.4f735061f6d1c5aea19f.png",
     "static/media/responsive-design.png": "/static/media/responsive-design.5cc9fe0789d39719b673.png",
     "static/media/midia-social.webp": "/static/media/midia-social.fb9509bc840338b1e367.webp",
     "static/media/landing-page.png": "/static/media/landing-page.cb93e840caab552bfabd.png",
     "static/media/planofundo.avif": "/static/media/planofundo.26e84982d34a1faf22b5.avif",
     "index.html": "/index.html",
     "static/media/sun.svg": "/static/media/sun.a59239f11c5f93ffce49.svg",
-    "static/media/moon.svg": "/static/media/moon.32432e461bae3e6d5d49.svg",
-    "main.410b765e.css.map": "/static/css/main.410b765e.css.map",
-    "main.458727ce.js.map": "/static/js/main.458727ce.js.map"
+    "static/media/moon.svg": "/static/media/moon.73373683b7c1717f8944.svg",
+    "main.a66e1a9c.css.map": "/static/css/main.a66e1a9c.css.map",
+    "main.44a4d013.js.map": "/static/js/main.44a4d013.js.map"
   },
   "entrypoints": [
-    "static/css/main.410b765e.css",
-    "static/js/main.458727ce.js"
+    "static/css/main.a66e1a9c.css",
+    "static/js/main.44a4d013.js"
   ]
 }
